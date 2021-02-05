@@ -1,7 +1,0 @@
-= Title1
-
-Example
-
-= Title2
-
-Example
